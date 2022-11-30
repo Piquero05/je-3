@@ -13,3 +13,11 @@
 /home/estudiante/Documentos/TICII/je 3 /obj/Debug/net6.0/je 3.pdb
 /home/estudiante/Documentos/TICII/je 3 /obj/Debug/net6.0/je 3.genruntimeconfig.cache
 /home/estudiante/Documentos/TICII/je 3 /obj/Debug/net6.0/ref/je 3.dll
+/home/estudiante/Documentos/TICII/je 4/je-3/obj/Debug/net6.0/je 3.csproj.AssemblyReference.cache
+/home/estudiante/Documentos/TICII/je 4/je-3/obj/Debug/net6.0/je 3.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Documentos/TICII/je 4/je-3/obj/Debug/net6.0/je 3.AssemblyInfoInputs.cache
+/home/estudiante/Documentos/TICII/je 4/je-3/obj/Debug/net6.0/je 3.AssemblyInfo.cs
+/home/estudiante/Documentos/TICII/je 4/je-3/obj/Debug/net6.0/je 3.csproj.CoreCompileInputs.cache
+/home/estudiante/Documentos/TICII/je 4/je-3/obj/Debug/net6.0/je 3.dll
+/home/estudiante/Documentos/TICII/je 4/je-3/obj/Debug/net6.0/refint/je 3.dll
+/home/estudiante/Documentos/TICII/je 4/je-3/obj/Debug/net6.0/je 3.pdb
